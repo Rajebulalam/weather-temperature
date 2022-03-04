@@ -21,7 +21,7 @@ const searchTemperature = () => {
     }
 }
 
-// Taken id and Set Inner Text
+// Get id and Set Inner Text
 const setInnerText = (id, text) => {
     document.getElementById(id).innerText = text;
 }
